@@ -1,0 +1,4 @@
+1. #Problem 1
+2. import math
+3. y = math.sqrt(2)
+4. print(y)
